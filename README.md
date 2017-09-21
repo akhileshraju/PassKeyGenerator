@@ -1,5 +1,7 @@
 # Passphrase-Generator
 
+__Requires Python 3.6+ to run__
+
 Small python script that is used for generating a 1+5 digit numeric key that the user can use to decode their main password.
 It makes use of the in-built Tkinter library in python to render the GUI. The GUI rendered on Windows 10 is shown below.
 
