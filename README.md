@@ -1,4 +1,4 @@
-# Passphrase-Generator
+# Pass Key Generator
 
 __Requires [Python 3.6](https://www.python.org/downloads/release/python-362/) or higher to run__
 
